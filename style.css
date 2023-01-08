@@ -1,0 +1,93 @@
+body {
+    font-family: 'Calligraffitti', cursive;
+    background-image: url(bg.jpg);
+    letter-spacing: 2px;
+    background-size: contain
+}
+
+
+#div1 {
+    background-color: #66545e;
+    padding: 30px;
+    color: #000000;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div2 {
+    background-color: #a39193;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div3 {
+    background-color: #aa6f73;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div4 {
+    background-color: #eea990;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div5 {
+    background-color: #f6e0b5;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div6 {
+    background-color:#ebcaa4;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div7 {
+    background-color:#f1dece;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div8 {
+    background-color:#d8cbcf;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div9 {
+    background-color:#cad7dd;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div10 {
+    background-color:#feeff4;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#div11 {
+    background-color:#feeff400;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    letter-spacing: 2px;
+    font-size: 20px;
+   
+}
